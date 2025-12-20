@@ -1,0 +1,93 @@
+Privacy Policy
+Random Finger Picker & Chooser
+
+Effective Date: November 17, 2025
+
+1. Introduction
+
+Thank you for choosing "Random Finger Picker & Chooser" (the "App"). This Privacy Policy describes how we collect, use, and handle your information when you use our mobile application.
+
+Our philosophy is to collect the minimum amount of information necessary to provide and improve the App. Your privacy is critically important to us. The core functionality of this App works completely offline.
+
+For any questions about this policy, please contact us at: FBKDevelop@gmail.com
+
+2. Information We Collect (and What We Do NOT Collect)
+
+We collect two types of information: information you voluntarily provide and information collected automatically by third-party services.
+
+a) Information You Provide (Stored Locally on Your Device)
+
+This is data that you create and manage within the App. This data is NEVER transmitted to us or any third party. It is stored exclusively in the App's private directory on your own device. This includes:
+
+Custom Spinner Images: If you choose an image from your photo gallery to use as a spinner, a copy of that image is stored within the App's secure local storage. We do not have access to your photo gallery.
+Custom Task Lists: If you use the "Tasks" game mode, any task groups and task descriptions you create are stored locally on your device.
+You can delete this data at any time by deleting the custom images or task groups from within the App, or by uninstalling the App.
+
+b) Automatically Collected Information (Usage Data)
+
+To support the free version of our App and to understand how it is used, we work with third-party services (Google Analytics and Google AdMob) that automatically collect certain information. This data is generally non-personally identifiable and may include:
+
+Device & Ad Identifiers: Such as your device's unique advertising ID (IDFA for iOS, GAID for Android).
+Usage Analytics: Information about how you interact with the App, such as session duration, features used, crash reports, and performance data.
+General Geolocation Data: Your IP address may be used to estimate your general location (e.g., country or city) to provide relevant ads and for analytics.
+Device Information: Device type, operating system version, and mobile network information.
+We do NOT collect any personally identifiable information such as your name, email address (other than what you provide for support), phone number, or contacts.
+
+3. How We Use Your Information
+
+To Provide App Functionality: The locally stored images and tasks are used to enable the core features of the game.
+To Support and Improve the App (Google Analytics): We use aggregated, anonymous usage data to understand which features are popular, to identify and fix bugs, and to improve the overall user experience.
+To Provide Advertising (Google AdMob/AdSense - Free Version Only): We use Google AdMob to display advertisements in the free version of the App. This helps us keep the app free. This data may be used to serve personalized ads based on your interests.
+4. Third-Party Services
+
+We use the following third-party services, which have their own privacy policies. We encourage you to review them:
+
+Google Analytics for Firebase: https://policies.google.com/privacy
+Google AdMob & AdSense: https://policies.google.com/technologies/ads
+These services are responsible for how they collect and handle your data.
+
+5. Your Data Protection Rights (GDPR, CCPA/CPRA)
+
+Depending on your jurisdiction, you have certain rights regarding your personal information.
+
+a) Rights for Users in the European Economic Area (EEA) - GDPR
+
+If you are a resident of the EEA, you have the following data protection rights:
+
+The right to access, update, or delete the information we have on you.
+The right of rectification.
+The right to object to processing.
+The right of restriction.
+The right to data portability.
+The right to withdraw consent.
+Since we do not store your personal information on our servers, these rights primarily apply to the data held by our third-party services (Google). You can exercise these rights through your device settings and Google's own privacy controls.
+
+b) Rights for Users in California (CCPA/CPRA)
+
+If you are a California resident, you have the following rights:
+
+The right to know what personal information is being collected about you.
+The right to access your personal information.
+The right to have your personal information deleted.
+The right to opt-out of the "sale" or "sharing" of your personal information. We do not directly sell your data, but sharing information with advertising partners may be considered a "sale" under the CCPA/CPRA.
+How to Opt-Out of Personalized Advertising:
+
+You can opt-out of personalized advertising and limit ad tracking by using the settings on your mobile device:
+
+On iOS: Navigate to Settings > Privacy > Tracking and turn off "Allow Apps to Request to Track."
+On Android: Navigate to Settings > Google > Ads and tap "Delete advertising ID."
+6. Children's Privacy
+
+This App is not intended for use by children under the age of 13 (or 16 in the EEA). We do not knowingly collect personally identifiable information from children. If we become aware that a child has provided us with personal information, we will take steps to remove such information.
+
+7. Data Security
+
+We take reasonable measures to protect the information that is collected by our third-party services. All data you create within the app (images, tasks) is stored only on your device and is as secure as your device itself.
+
+8. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our store listing. You are advised to review this Privacy Policy periodically for any changes.
+
+9. Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: FBKDevelop@gmail.com

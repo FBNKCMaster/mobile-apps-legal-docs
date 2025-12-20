@@ -1,0 +1,68 @@
+Privacy Policy for Math Mastery: Kids Games
+Effective Date: October 30, 2025
+
+Thank you for choosing "Math Mastery: Kids Games" (the "App"). This Privacy Policy describes how your information is collected, used, and handled when you use our App. Your privacy and your child's privacy are of the utmost importance to us.
+
+Our contact email for any privacy-related questions is: FBKDevelop@gmail.com
+
+1. Information We Collect
+We have designed our App to collect as little personal information as possible.
+
+a) Information Stored Locally on Your Device:
+The App saves certain data directly and exclusively on your device. We do not have access to this data, and it is not transmitted to us or any third party. This includes:
+
+Game Progress: Your scores, high scores, and game statistics (such as accuracy, difficulty, and mode played).
+App Settings: Your preferences for language, theme, sound volume, and timer display.
+Trial Status (for the Trial Version): The number of remaining free plays is stored locally to manage the trial period.
+You can clear this data by clearing the app's cache or by uninstalling the App from your device.
+
+b) Non-Personal Information Collected by Our Partners:
+To support the Free and Trial versions of our App and to improve its functionality, we work with third-party service providers (Google AdMob and Google Analytics for Firebase) who may automatically collect certain non-personal and technical information, including:
+
+Device Information: Device type and model, operating system version, and screen resolution.
+Advertising ID: A unique, user-resettable ID for advertising purposes (e.g., IDFA for iOS, GAID for Android).
+Usage Data: Information about how you interact with the App, such as game sessions launched, screens visited, and features used. This is aggregated and anonymized.
+Crash Information: Reports on app crashes and performance issues to help us fix bugs.
+General Location Information: Your country or region, derived from your IP address, to provide relevant content and ads. We do not collect precise GPS location data.
+We do not collect personally identifiable information such as your name, email address, physical address, phone number, photos, or contacts.
+
+2. How We Use Your Information
+The information we and our partners collect is used for the following purposes:
+
+To Operate the App: To save your scores and settings on your device.
+To Serve Advertisements (Free & Trial Versions): To display advertisements that support the free version of our App. We have configured these ads to be appropriate for a family audience.
+To Improve the App: To understand how users interact with our App, analyze performance, identify popular features, and fix crashes using aggregated, anonymous data from Google Analytics.
+To Manage the Trial Version: To keep track of remaining free plays locally on your device.
+3. Third-Party Services
+We use the following third-party services, which have their own privacy policies:
+
+Google AdMob (for ads): Used in our Free and expired-Trial versions to serve ads. Google may use the advertising ID from your device to serve personalized or non-personalized ads. We have flagged our ad requests as being directed for a family/child audience in accordance with Google's policies. You can learn more about how Google handles data and how to control your ad experience in Google's Privacy & Terms: https://policies.google.com/technologies/ads
+Google Analytics for Firebase (for analytics): Used to gather anonymous statistics about app usage and performance. This helps us understand what features to improve and how to make the game better. Firebase data handling practices are described here: https://policies.google.com/privacy
+4. Children's Privacy
+Protecting the privacy of children is our top priority. Our App is designed to be safe and appropriate for children.
+
+We comply with the Children's Online Privacy Protection Act (COPPA) and the General Data Protection Regulation (GDPR-K).
+We do not knowingly collect any personally identifiable information from children under the age of 13 (or 16 in certain EU countries).
+The advertisements shown in the App are filtered by Google AdMob to be suitable for a family audience. We do not serve interest-based (behavioral) advertising to children.
+If you are a parent or guardian and you believe that your child has provided any personal information to us without your consent, please contact us immediately at FBKDevelop@gmail.com, and we will take steps to remove such information.
+5. Your Data Rights (GDPR & CCPA/CPRA)
+You have rights regarding your data depending on your location.
+
+For Users in the EEA, UK, and Switzerland (GDPR): You have the right to access, rectify, or erase your personal data, as well as the right to restrict processing and object to processing. Since we do not collect personal data, these rights primarily apply to the data held by our third-party partners.
+For Users in California (CCPA/CPRA): You have the right to know what information is collected about you and the right to request the deletion of your information. You also have the right to opt-out of the "sale" or "sharing" of your personal information, which often relates to advertising.
+How to Exercise Your Rights:
+
+Opting Out of Personalized Ads: You can opt-out of personalized advertising by resetting your Advertising ID in your device's settings.
+On Android: Go to Settings > Google > Ads > Reset advertising ID.
+On iOS: Go to Settings > Privacy & Security > Tracking and turn off "Allow Apps to Request to Track".
+Deleting Local Data: You can delete all locally stored data (scores, settings) by clearing the app's data in your device's settings or by uninstalling the app.
+Contact Us: For any other requests or questions about your data rights, please contact us at FBKDevelop@gmail.com.
+6. Data Security
+We take reasonable administrative and technical measures to protect any information our partners collect against loss, theft, and misuse. However, no security system is impenetrable, and we cannot guarantee the security of our systems 100%.
+
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our store listing page. You are advised to review this Privacy Policy periodically for any changes.
+
+8. Contact Us
+If you have any questions about this Privacy Policy, please feel free to contact us at:
+FBKDevelop@gmail.com
