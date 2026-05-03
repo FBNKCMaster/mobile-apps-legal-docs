@@ -1,0 +1,27 @@
+Last updated: May 03, 2026
+
+FBK-Dev ("we," "us," or "our") operates the Spending Tracker mobile application (the "App"). We are committed to protecting your privacy and ensuring that your personal data is handled securely and transparently.
+
+## 1. DATA COLLECTION AND USAGE
+Spending Tracker is designed with a "Privacy First" approach. 
+- **Local Storage:** All data you enter into the App (expenses, prices, shopping lists, market names, notes) is stored strictly on your local device. 
+- **No Personal Information:** We do not collect, store, or transmit any Personally Identifiable Information (PII) to our servers.
+- **Camera Access:** The App requires access to your camera solely for the purpose of scanning price tags (OCR) and taking photos of receipts. These images are stored locally on your device and are never uploaded to any cloud service by us.
+
+## 2. THIRD-PARTY SERVICES
+The App may use third-party services that collect information used to identify you:
+- **Apple In-App Purchases:** Used to process transactions for premium features. This is governed by Apple's Privacy Policy.
+- **Google AdMob:** Used to display advertisements in the free version of the App. AdMob may collect data as outlined in Google's privacy policies.
+- **RevenueCat / Adapty:** Used to manage subscription status. These services do not receive your spending data.
+
+## 3. SECURITY
+We value your trust in providing us your information. However, since all data is stored on your device, the security of your data depends on the security of your device. We recommend using device-level security (passcodes, FaceID/TouchID) and regular backups.
+
+## 4. CHILDREN'S PRIVACY
+The App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children.
+
+## 5. CHANGES TO THIS PRIVACY POLICY
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
+
+## 6. CONTACT US
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at FBKDevelop@gmail.com.
